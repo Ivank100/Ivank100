@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+##💬 About:
+
+Welcome to my Github page! 
+I am currently studying Information Technology for a bachleor degree, and in my spare time i like to code and learn new things.
+
+
+
+
 <!--
 **Ivank100/Ivank100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-##💬 About:
+💬 About:
 
 Welcome to my Github page! 
 I am currently studying Information Technology for a bachleor degree, and in my spare time i like to code and learn new things.
